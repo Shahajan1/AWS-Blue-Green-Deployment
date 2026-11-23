@@ -182,13 +182,13 @@ Through this project, I gained practical experience in:
 
 For detailed implementation steps, AWS configurations, deployment procedures, and troubleshooting, refer to:
 
-[**AWS Blue-Green Deployment – Detailed Project Documentation**](docs/deployment-and-testing.md)
+[**AWS Blue-Green Deployment – Detailed Project Documentation**](deployment-and-testing.md)
 
 Additional configuration details:
 
-- [AWS Resource Configuration](docs/aws-resource-configuration.md)
-- [Project Overview](docs/project-overview.md)
-- [Troubleshooting Guide](docs/troubleshooting.md)
+- [AWS Resource Configuration](aws-resource-configuration.md)
+- [Project Overview](project-overview.md)
+- [Troubleshooting Guide](troubleshooting.md)
 
 ## 👨‍💻 Author
 
